@@ -9,7 +9,6 @@
 /nbproject/
 .idea
 *.iml
-/.mvn/
 
 /build/
 /lib/
